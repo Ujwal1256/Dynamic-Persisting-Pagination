@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+.todo{
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+.pagination button {
+      margin: 5px;
+      padding: 8px 12px;
+      cursor: pointer;
+    }
